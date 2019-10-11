@@ -1,0 +1,115 @@
+Comment:  Items were tested against two contexts: either against the equality context (E) or against the interval context (N) (not against both contexts simultane-ously). Sentences were tested (i) in a predicate position with CN-comparative (PCN) and with VN-comparative  (PVN), and (ii) in an object position with CN-comparative (OCN) and with VN-comparative (OVN).
+
+(1) E Context: Petr nalil víno do všech 6 sklenic.
+               `Petr poured wine into all 6 glasses.´
+    N Context: Petr nalil víno do všech 5 sklenic.
+               `Petr poured wine into all 5 glasses.´
+               
+    (a) PCN Na stole je ne víc než 6 sklenic.
+            `There are no more than 6 glasses on the table.'
+    (b) PVN Na stole není víc než 6 sklenic.
+            `There are not more than 6 glasses on the table.'
+   
+   E Context: Honza není zvyklý pít alkohol, takže se z těch 4 piv pořádně opil.
+   N Context: Přestože Honza není zvyklý pít alkohol, ani z těch 3 piv se vůbec neopil.
+     
+   (a) OCN Honza včera vypil ne víc jak 4 piva.
+   (b) OVN Honza včera nevypil víc jak 4 piva. 
+
+(2)  E Context: Teploměr, který měří naprosto přesně, sice ukazoval 20 °C, ale dost tam foukalo. Petr si raději vzal bundu.
+    N Context: Teploměr, který měří naprosto přesně, sice ukazoval 17 °C, ale dost tam foukalo. Petr si raději vzal bundu.
+    
+(a) PCN Včera bylo venku ne víc jak 20 °C.
+(b) PVN  Včera nebylo venku víc jak 20 °C
+
+     E Context: Dle jízdního řádu je odjezd z Brna ve 13:00 a příjezd do Prahy je v 15:00.
+     N Context: Dle jízdního řádu je odjezd z Brna ve 13:00 a příjezd do Prahy je v 14:15.
+     
+     (a) OCN Cesta z Brna do Prahy trvá ne víc jak 2 hodiny.
+    (b) OVN  Cesta z Brna do Prahy netrvá víc jak 2 hodiny.
+
+
+(3) E Context: Petře trvá většinou celé dopoledne, než všech 5 oken umyje.
+    N Context: Petře trvá většinou celé dopoledne, než všechny 3 okna umyje.
+    
+   (a) PCN V Petřině pokoji je ne víc než 5 oken.
+   (b) PVN V Petřině pokoji není víc než 5 oken.
+
+    E Context: Bohužel na všech 4 kartičkách byl ten samý hokejista.
+    N Context: Bohužel na všech 3 kartičkách byl ten samý hokejista.
+    
+   (a) OCN Karel a Marek spolu soutěží, kdo z nich bude mít víc kartiček se slavnými hokejisty. Marek si včera koupil ne víc jak 4 kartičky.
+   (b) OVN Karel a Marek spolu soutěží, kdo z nich bude mít víc kartiček se slavnými hokejisty. Marek si včera nekoupil víc jak 4 kartičky.
+
+(4) E Context: Měli raději zůstat doma, protože všech 10 studentů celý seminář pokášlávalo a smrkalo.
+    N Context: Měli raději zůstat doma, protože všech 8 studentů celý seminář pokašlávalo a smrkalo.
+    
+    (a) PCN Začalo se ochlazovat a spousta lidí je nemocných. Na semináři včera bylo ne víc než 10 studentů.
+    (b) PVN Začalo se ochlazovat a spousta lidí je nemocných. Na semináři včera nebylo víc než 10 studentů.
+
+   E Context: Jana dostala ze všech 6 úkolů plný počet bodů, takže ze závěrečné zkoušky už nemá takový strach.
+   N Context: Jana dostala ze všech 5 úkolů plný počet bodů, takže ze závěrečné zkoušky už nemá takový strach.
+   
+   (c) OCN Vyučují po studentech vyžadoval ne víc jak 6 úkolů za semestr.
+   (d) OVN Vyučující po studentech nevyždadoval víc jak 6 úkolů za semestr.
+
+(5) E Context: Dnes měli myslivci hon a všech 5 zastřelili, takže v lese už nezbyl ani jeden zajíc.
+    N Context: Dnes měli myslivci hon a všechny 4 zastřelili, takže v lese už nezbyl ani jeden zajíc.
+    
+   (a) PCN V tomhle lese bylo ne víc než 5 zajíců.
+   (b) PVN V tomhle lese nebylo víc než 5 zajíců.
+
+   E Context: Uprostřed lesa je řeka a po levé straně 200 nových malých buků. Stromečky jsou stejného druhu. Vypadá to moc pěkně. 
+   N Context: Uprostřed lesa je řeka a po levé straně 150 nových malých buků. Stromečky jsou stejného druhu. Vypadá to moc pěkně.
+   
+   (c) OCN Podél řeky roste ne víc než 200 malých buků.
+   (d) OVN Podél řeky neroste víc než 200 malých buků.
+              
+  (6) E Context: Potřebovali bychom, aby nás bylo víc, abychom se mohli střídat. Bohužel je nás jen 7, takže si při závodech skoro neodpočneme.
+      N Context: Potřebovali bychom, aby nás bylo víc, abychom se mohli střídat. Bohužel je nás jen 5, takže si při závodech skoro neodpočneme.
+  
+  (a) PCN Ve sportovním týmu nás je ne víc než 7 sprinterů.
+  (b) PVN Ve sportovním týmu nás není víc než 7 sprinterů.
+  
+      E Context: Bratr měl tak velký hlad, že všech 5 rohlíků snědl už po cestě domů jen tak suché.
+      N Context: Bratr měl tak velký hlad, že všechny 3 rohlíky snědl už po cestě domů jen tak suché.
+     
+     (c) OCN Bratr si včera koupil v obchodě ne víc jak 5 rohlíků.
+     (d) OVN Bratr si včera nekoupil v obchodě víc jak 5 rohlíků.
+ 
+ (7) E Context: Obec se rozhodla, že kvůli větší bezpečnosti vybuduje přechod pro chodce a semafor, protože ve všech 10 domech bydlí rodiny s malými dětmi.
+     N Context:  Obec se rozhodla, že tu kvůli větší bezepčnosti vybuduje přechod pro chodce a semafor, protože ve všech 8 domech bydlí rodiny s malými dětmi.
+     
+ (a) PCN V téhle ulici je ne víc jak 10 domů.
+ (b) PVN V téhle ulici není víc jak 10 domů.
+     
+  E Context: Tomáš na zkoušku šel a doufal, že se ho vyučující zeptá na nějakou knihu z těch 10, které četl.
+  N Context: Tomáš na zkoušku šel a doufal, že se ho vyučující zeptá na nějakou knihu z těch 8, které četl.
+  
+  (c) OCN Tomáš se přihlásil na literární seminář. Z nedostatku času však ke zkoušce přečetl ne víc jak 10 knih.
+  (d) OVN Tomáš se přihlásil na literární seminář. Z nedostatku času však ke zkoušce nepřečetl víc jak 10 knih.
+
+(8) 
+              
+              
+
+
+
+
+E Context: Všech 6 růží bylo červených.
+               `All 6 roses were red.' 
+    N Context: Všech 5 růží bylo červených.
+               `All 5 roses were red.' 
+
+    (a) OCN Jan dal Marii k narozeninám ne víc než 6 růží.
+            `John gave Mary no more than 6 roses for her birthday.'
+    (b) OVN Jan nedal Marii k narozeninám víc než 6 růží.
+            `John didn't give Mary more than 6 roses for her birthday.'
+
+
+
+              
+
+
+
+

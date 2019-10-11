@@ -1,0 +1,69 @@
+
+(1) BAD
+    Context: Byla to velmi obtížná zkouška. Vyučující byl nekompromisní. 10 studentů zkoušku neudělalo.
+    Sentence: Všichni studenti dostali ze zkoušky lepší známku než 2.
+
+(2) GOOD 
+    Context: Test byl opravdu náročný, ne všem studentům se podařilo dosáhnout požadovaného počtu bodů. I Petr, který je považován za velkého šprta, testem neprošel, protože nezískal požadovaných 20 bodů.
+    Sentence: Aby studenti prošli tímto testem, potřebují nejméně 20 bodů.
+ 
+ (3) BAD 
+    Context: Marie musí podávat Honzovi knihy z vyšších polic, protože on na ně nedosáhne.
+    Sentence: Honza je vyšší než Marie.
+  
+ (4) GOOD
+     Context: Zákazník si koupil nejnovější CD od Metallicy a starší CD od Black Sabatth, zdarma dostal CD Hlasy zvířat.
+     Sentence: Pokud si v tomto obchodě někdo koupí 2 CD, dostane ještě jedno zdarma.
+ 
+ (5) BAD
+     Context: Když se Tomáš vrátil z dovolené, vedoucí ho pochválil za to, že odpovídal na pracovní e-maily, přestože měl dovolenou, a slíbil mu za to zvláštní prémie.
+     Sentence: Tomáš z dovolené neposlal ani jeden e-mail.
+
+(6) GOOD
+    Context: Holubi přezimují, člověk se jich nezbaví ani v lednu.
+    Sentence: Někteří ptáci na zimu neodlétají, ale zůstávají u nás.
+
+(7) BAD
+    Context: Schůze byla velmi zdlouhavá. Obzvlášť Petr měl velmi dlouhý proslov.
+    Sentence: Na schůzi přišli všichni kromě Petra.
+
+(8) GOOD
+    Context: Ředitel vyhlásil na pondělí mimořádné ředitelské volno. Studenti byli nadšení.
+    Sentence: V pondělí nebyl ve škole ani jeden student.
+
+(9) BAD
+    Context: Čtyřletý syn měří 105 cm, proto na tu horskou dráhu jít může.
+    Sentence: Na tuto horskou dráhu mohou pouze ty děti, které měří víc než 120 cm.
+
+(10) GOOD
+     Context: Dívka se chvíli rozmýšlela a nakonec si koupila 2 jahodové a 2 malinové jogurty.
+     Sentence: Dívka šla do obchodu a koupila si 4 jogurty.
+
+(11) BAD
+     Context: Karel neví, že číslo 3 není prvočíslo.
+     Sentence: Karel je nejlepší student matematicko-fyzikální fakulty.
+     
+(12) GOOD
+     Context: Rodiče šli s dětmi do lesa na houby, ale nenašli ani jednu jedlou houbu.
+     Sentence: Holčička ovšem našla tři hřiby satany a měla velkou radost. 
+
+(13) BAD 
+     Context:  Byl jsem na výstavě obrazů. Mého kamaráda velmi zaujal obraz s kruhem.
+     Sentence:  Mně se ale moc nelíbil, protože nemám rád hranaté věci.
+     
+ 
+ (14) GOOD
+      Context: Rodiče odjeli na dovolenou na Krétu a měli štěstí, že měli opravdu pěkné počasí.
+      Sentence: Rodiče nejsou doma, protože jsou na dovolené.
+ 
+ (15) BAD
+      Context: Anna a Marie přišly pozdě, zatímco Lucie a Hana byly na místě už od rána a připravovaly občerstevní.
+      Sentence: Všechny dívek přišly na oslavu pozdě.
+ 
+ (16) GODD
+      Context: Vedle školky se začalo budovat nové nákupní centrum. Stavební práce neprodleně začaly a děti proto nemohly kvůli hluku ze stavby usnout.
+      Sentence: Většina dětí ve školce po obědě nespala.
+
+
+
+

@@ -193,5 +193,15 @@ Comment:  Items were tested against two contexts: either against the equality co
      (c) OCN Vyučující pro své studenty vytiskl ne víc jak 15 handoutů.
      (d) OVN Vyučující pro své studenty nevytiskl víc jak 15 handoutů.
           
- (16) E Context: 
+ (16) E Context: Paní Nováková požadovala, aby bylo všech 5 stromů pokáceno, protože jí stíní na zahrádku před domem a její růže z toho důvodu nejsou tak pěkné, jako kdyby na ně svítilo slunce.
+     N Context: Paní Nováková požadovala, aby byly všechny 3 stromy pokáceny, protože jí stíní na zahrádku před domem a její růže z toho důvodu nejsou tak pěkné, jako kdyby na ně svítilo slunce.
+     
+     (a) PCN Před domem bylo ne víc jak 5 stromů.
+     (b) PVN Před domem nebylo víc jak 5 stromů.
+     
+     E Context: Paní Nováková má velmi ráda jablka. Pan Novák jí chtěl udělat radost, a proto všechny 4 stromy byly jabloně.
+     N Context: Paní Nováková má velmi ráda jablka. Pan Novák jí chtěl udělat radost, a proto všechny 3 stromy byly jabloně.
+     
+     (c) OCN Pan Novák na zahradě vysázel ne víc jak 4 stromy.
+     (d) OVN Pan Novák na zahradě nevysázel víc jak 4 stromy.
 

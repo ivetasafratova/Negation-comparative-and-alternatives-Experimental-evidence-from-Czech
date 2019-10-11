@@ -89,27 +89,109 @@ Comment:  Items were tested against two contexts: either against the equality co
   (c) OCN Tomáš se přihlásil na literární seminář. Z nedostatku času však ke zkoušce přečetl ne víc jak 10 knih.
   (d) OVN Tomáš se přihlásil na literární seminář. Z nedostatku času však ke zkoušce nepřečetl víc jak 10 knih.
 
-(8) 
-              
-              
-
-
-
-
-E Context: Všech 6 růží bylo červených.
+(8) E Context: Hvězdy tvořily nepravidelný šestiúhelník.
+    N Context: Hvězdy tvořily nepravidelný pětiúhelník.
+    
+    (a) PCN Na obloze bylo ne víc jak 6 hvězd.
+    (b) PVN Na obloze nebylo víc jak 6 hvězd.
+   
+  E Context: Všech 6 růží bylo červených.
                `All 6 roses were red.' 
     N Context: Všech 5 růží bylo červených.
                `All 5 roses were red.' 
 
-    (a) OCN Jan dal Marii k narozeninám ne víc než 6 růží.
+    (c) OCN Jan dal Marii k narozeninám ne víc než 6 růží.
             `John gave Mary no more than 6 roses for her birthday.'
-    (b) OVN Jan nedal Marii k narozeninám víc než 6 růží.
+    (d) OVN Jan nedal Marii k narozeninám víc než 6 růží.
             `John didn't give Mary more than 6 roses for her birthday.'
+           
+ 
+(9) E Context: Jedná se patrně o nějaké experimentální umění, protože všech 5 čar tvoří podivný obrazec.
+    N Context: Jedná se patrně o nějaké experimentální umění, protože všechny 4 čáry tvoří podivný obrazec.
+
+   (a) PCN Na tomto obraze je ne víc než 5 černých čar.
+   (b) PVN Na tomto obraze není víc než 5 černých čar.
+
+   E Context: Obraz byl smutný a pochmurný, protože všechny 4 použité barvy byly velmi tmavé.
+   N Context: Obraz byl smutný a pochmurný, protože všechny 3 použité barvy byly velmi tmavé.
+   
+   (c) OCN Malířka na malování obrazu použila ne víc jak 4 barvy.
+   (d) OVN Malířka na malování obrazu nepoužila víc jak 4 barvy.
+ 
+(10) E Context: Turisté přijeli hromadně autobusem. Nejprve navštívili místní zámek, poté si zašli na oběd a nakonec se vypravili i do podzemí. Někteří měli zpočátku trochu obavy z uzavřených prostor, ale nakonec se prohlídky zúčastnilo všech 30 turistů.
+     N Context: Turisté přijeli hromadně autobusem. Nejprve navštívili místní zámek, poté si zašli na oběd a nakonec se vypravili i do podzemí. Někteří měli zpočátku trochu obavy z uzavřených prostor, ale nakonec se prohlídky zúčastnilo všech 27 turistů.
+
+  (a) PCN Ve městě bylo v sobotu ne víc jak 30 turistů.
+  (b) Ve městě nebylo v sobotu víc jak 30 turistů.
+  
+  E Context: To by nebyli Francouzi, aby všechny 4 jeskyně hned neoznačili za národní dědictví.
+  N Context: To by nebyli Francouzi, aby všechny 3 jeskyně hned neoznačili za národní dědictví.
+  
+  (c) OCN Ve Francii objevili ne víc jak 4 nové jeskyně.
+  (d) OVN Ve Francii neobjevili víc jak 4 nové jeskyně.
 
 
+(11) E Context: Karel na všech 9 otázek odpověděl bez chyby a dostal tedy jedničku.
+     N Context: Karel na všech 8 otázek odpověděl bez chyby a dostal tedy jedničku.
 
-              
+    (a) PCN V závěrečném testu bylo ne víc jak 9 otázek.
+    (b) PVN V závěrečném testu nebylo víc jak 9 otázek.
+
+    E Context: Petr byl velmi překvapen, protože ani jednoho z bývalých spolužáků od střední školy neviděl, ale všech 5 se k němu chovalo velmi přátelsky.
+    N Context: Petr byl velmi překvapen, protože ani jednoho z bývalých spolužáků od střední školy neviděl, ale všichni 3 se k němu chovalo velmi přátelsky.
+    
+    (c) OCN Petr včera potkal na večírku ne víc jak 5 známých.
+    (d) OVN Petr včera nepotkal na večírku víc jak 5 známých.
+
+(12) E Context: Naštěstí ani jeden z 15 pacientů nebyl v ohrožení života.
+     N Context: Naštěstí ani jeden ze 14 pacientů nebyl v ohrožení života.
+     
+     (a) PCN Tento týden bylo v okresní nemocnici ne víc jak 15 akutních případů.
+     (b) PVN Tento týden nebylo v okresní nemocnici víc jak 15 akutních případů.
+
+     E Context: Můj spolužák je na sebe přísný. Stanovil si, že každý den musí napsat přesně 5000 znaků a teprve poté může jít spát.
+     N Context: Můj spolužák je na sebe přísný. Stanovil si, že každý den musí napsat mezi 3000 až 4000 znaky a teprve poté může jít spát.
+     
+     (c) OCN Můj spolužák po zkušenostech s bakalářskou prací ví, že za den napíše ne víc jak 5000 znaků.
+     (d) OVN Můj spolužák po zkušenostech s bakalářskou prací ví, že za den nenapíše víc jak 5000 znaků.
 
 
+(13) E Context: Podmínky na lyžování opravdu nebyly dobré. Sníh byl mokrý a těžký. Ani jeden ze 40 lyžařů si netroufal na černou sjezdovku a raději jezdili po červené nebo po modré sjezdovce.
+    N Context: Podmínky na lyžování opravdu nebyly dobré. Sníh byl mokrý a těžký. Ani jeden z 35 lyžařů si netroufal na černou sjezdovku a raději jezdili po červené nebo po modré sjezdovce.
+    
+    (a) PCN V neděli bylo na svahu ne víc než 40 lyžařů.
+    (b) PVN V neděli nebylo na svahu víc než 40 lyžařů.
+    
+    E Context: Není to pravda, že Honza tolik šetřil, pouze mu přijdou materiální věci nepodstatné. Těch 7 triček mu prý stačí, na každý den v týdnu má jedno.
+    N Context: Není to pravda, že Honza tolik šetřil,  pouze mu přijdou materiální věci nepodstatné. Těch 5 triček mu prý stačí, skoro na každý den v týdnu má jedno.
+    
+    (c) OCN Honza nosí ne víc jak 7 triček.
+    (d) OVN Honza nenosí víc jak 7 triček.
+      
+             
+ (14) E Context: Všem 25 návštěvníkům se však film líbil. Pravděpodobně to bylo způsobeno tím, že dávali studentský experimentální film. Šli na něho záměrně, protože už s tímto žánrem měli dobré zkušenosti z minulosti.
+     N Context: Všem 23 návštěvníkům se však film líbil. Pravděpodobně to bylo způsobeno tím, že dávali studentský experimentální film. Šli na něho záměrně, protože už s tímto žánrem měli dobré zkušenosti z minulosti.
+     
+     (a) PCN V kině včera bylo ne víc jak 25 lidí.
+     (b) PVN V kině včera nebylo víc jak 25 lidí.
+ 
+    E Context: Paní Nováková si objednala dorty na oslavu narozenin a požadovala, aby všechny 4 dorty byly s čokoládovým krémem.
+    N Context: Paní Nováková si objednala dorty na oslavu narozenin a požadovala, aby všechny 3 dorty byly s čokoládovým krémem.
+    
+    (c) OCN Cukrářka upekla ne víc jak 4 dorty.
+    (d) OVN Cukrářka neupekla víc jak 4 dorty.
 
+(15) E Context: Shodou okolností přijely na prohlídku hradu naráz 4 autobusy plné studentů. Průvodci se za celý den ani na chvíli nezastavili, protože po celý den provázeli. Všichni 4 průvodci byli rádi, když si mohli večer po zavírací době hradu odpočinout.
+     N Context: Shodou okolností přijely na prohlídku hradu naráz 4 autobusy plné studentů. Průvodci se za celý den ani na chvíli nezastavili, protože po celý den provázeli. Všichni 3 průvodci byli rádi, když si mohli večer po zavírací době hradu odpočinout.
+     
+     (a) PCN Tento víkend byli na hradě ne víc než 4 průvodci.
+     (b) PVN Tento víkend nebyli na hradě víc než 4 průvodci.
+     
+     E Context: Učitel rozdal všech 15 handoutů mezi studenty a žádný mu nezbyl.
+     N Context: Učitel rozdal všech 13 handoutů mezi studenty a žádný mu nezbyl.
+     
+     (c) OCN Vyučující pro své studenty vytiskl ne víc jak 15 handoutů.
+     (d) OVN Vyučující pro své studenty nevytiskl víc jak 15 handoutů.
+          
+ (16) E Context: 
 

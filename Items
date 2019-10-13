@@ -126,11 +126,15 @@ The comment:  Items were tested against two contexts: either against the equalit
              `My brother did not buy more than 5 croissant in the shop yesterday.'
  
  
- (7) E Context: Obec se rozhodla, že kvůli větší bezpečnosti vybuduje přechod pro chodce a semafor, protože ve všech 10 domech bydlí rodiny s malými dětmi.
-     N Context:  Obec se rozhodla, že tu kvůli větší bezepčnosti vybuduje přechod pro chodce a semafor, protože ve všech 8 domech bydlí rodiny s malými dětmi.
+ (7) E Context: Obec se rozhodla, že kvůli větší bezpečnosti vybuduje přechod pro chodce a semafor, protože ve všech 10 domech bydlí                     rodiny s malými dětmi.
+                `The municipal committee decided to build a pedestrian crossing and a traffic light for greater safety, as families with                 small children live in all 10 houses.'
+     N Context: Obec se rozhodla, že tu kvůli větší bezepčnosti vybuduje přechod pro chodce a semafor, protože ve všech 8 domech bydlí                   rodiny s malými dětmi.
+                `The municipal committee decided to build a pedestrian crossing and a traffic light for greater safety, as families with                 small children live in all 8 houses.'
      
- (a) PCN V téhle ulici je ne víc jak 10 domů.
- (b) PVN V téhle ulici není víc jak 10 domů.
+     (a) PCN V téhle ulici je ne víc jak 10 domů.
+             `There are no more than 10 houses in this street.'
+     (b) PVN V téhle ulici není víc jak 10 domů.
+             `There are not more than 10 houses in this street.'
      
   E Context: Tomáš na zkoušku šel a doufal, že se ho vyučující zeptá na nějakou knihu z těch 10, které četl.
   N Context: Tomáš na zkoušku šel a doufal, že se ho vyučující zeptá na nějakou knihu z těch 8, které četl.

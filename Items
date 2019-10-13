@@ -1,4 +1,4 @@
-Comment:  Items were tested against two contexts: either against the equality context (E) or against the interval context (N) (not against both contexts simultane-ously). Sentences were tested (i) in a predicate position with CN-comparative (PCN) and with VN-comparative  (PVN), and (ii) in an object position with CN-comparative (OCN) and with VN-comparative (OVN).
+The comment:  Items were tested against two contexts: either against the equality context (E) or against the interval context (N) (not against both contexts simultaneously). Sentences were tested (i) in a predicate position with CN-comparative (PCN) and with VN-comparative  (PVN), and (ii) in an object position with CN-comparative (OCN) and with VN-comparative (OVN).
 
 (1) E Context: Petr nalil víno do všech 6 sklenic.
                `Petr poured wine into all 6 glasses.´
@@ -10,40 +10,63 @@ Comment:  Items were tested against two contexts: either against the equality co
     (b) PVN Na stole není víc než 6 sklenic.
             `There are not more than 6 glasses on the table.'
    
-   E Context: Honza není zvyklý pít alkohol, takže se z těch 4 piv pořádně opil.
-   N Context: Přestože Honza není zvyklý pít alkohol, ani z těch 3 piv se vůbec neopil.
-     
+    E Context: Honza není zvyklý pít alkohol, takže se z těch 4 piv pořádně opil.
+               `Honza is not used to drinking alcohol, so he got really drunk from those 4 beers.'
+    N Context: Přestože Honza není zvyklý pít alkohol, ani z těch 3 piv se vůbec neopil.
+               `Although Honza is not used to drinking alcohol, he did not get drunk at all from those three beers.'
+               
    (a) OCN Honza včera vypil ne víc jak 4 piva.
+           `Honza drank no more than 4 beers yesterday.'
    (b) OVN Honza včera nevypil víc jak 4 piva. 
+           `Honza did not drink more than 4 beers yesterday.'
+           
 
-(2)  E Context: Teploměr, který měří naprosto přesně, sice ukazoval 20 °C, ale dost tam foukalo. Petr si raději vzal bundu.
-    N Context: Teploměr, který měří naprosto přesně, sice ukazoval 17 °C, ale dost tam foukalo. Petr si raději vzal bundu.
+(2) E Context: Teploměr, který měří naprosto přesně, sice ukazoval 20 °C, ale dost tam foukalo. Petr si raději vzal bundu.
+               `The thermometer, which measures absolutely accurately, showed 20 ° C, but there was a lot of blowing. Peter preferred to                 take his jacket.'
+    N Context: Teploměr, který měří naprosto přesně, sice ukazoval 17°C, ale dost tam foukalo. Petr si raději vzal bundu.
+               `The thermometer, which measures absolutely accurately, showed 17°C, but there was a lot of blowing. Peter preferred to                take his jacket.'
     
-(a) PCN Včera bylo venku ne víc jak 20 °C.
-(b) PVN  Včera nebylo venku víc jak 20 °C
+    (a) PCN Včera bylo venku ne víc jak 20 °C.
+            `It was outside no more than 20°C yesterady.'
+    (b) PVN Včera nebylo venku víc jak 20 °C
+            `It was not outside more than 20°C yesterady.'
 
      E Context: Dle jízdního řádu je odjezd z Brna ve 13:00 a příjezd do Prahy je v 15:00.
+                `According to the timetable, departure is from Brno at 13:00 and arrival to Prague at 15:00.'
      N Context: Dle jízdního řádu je odjezd z Brna ve 13:00 a příjezd do Prahy je v 14:15.
+                `According to the timetable, departure is from Brno at 13:00 and arrival to Prague at 14:15.'
      
      (a) OCN Cesta z Brna do Prahy trvá ne víc jak 2 hodiny.
-    (b) OVN  Cesta z Brna do Prahy netrvá víc jak 2 hodiny.
+             `The journey from Brno to Prague takes no more than 2 hours.'        
+     (b) OVN  Cesta z Brna do Prahy netrvá víc jak 2 hodiny.
+              `The journey from Brno to Prague does not take more than 2 hours.' 
 
 
 (3) E Context: Petře trvá většinou celé dopoledne, než všech 5 oken umyje.
+               `It usually takes Petra all morning to wash all five windows' 
     N Context: Petře trvá většinou celé dopoledne, než všechny 3 okna umyje.
-    
-   (a) PCN V Petřině pokoji je ne víc než 5 oken.
-   (b) PVN V Petřině pokoji není víc než 5 oken.
+               `It usually takes Petra all morning to wash all three windows' 
+               
+    (a) PCN V Petřině pokoji je ne víc než 5 oken.
+            `There are no more than 5 windows in Petra's room.' 
+    (b) PVN V Petřině pokoji není víc než 5 oken.
+            `There are not more than 5 windows in Petra's room.' 
 
     E Context: Bohužel na všech 4 kartičkách byl ten samý hokejista.
+               `Unfortunately, the same hockey player was on all four cards.'
     N Context: Bohužel na všech 3 kartičkách byl ten samý hokejista.
+               `Unfortunately, the same hockey player was on all three cards.'
     
-   (a) OCN Karel a Marek spolu soutěží, kdo z nich bude mít víc kartiček se slavnými hokejisty. Marek si včera koupil ne víc jak 4 kartičky.
-   (b) OVN Karel a Marek spolu soutěží, kdo z nich bude mít víc kartiček se slavnými hokejisty. Marek si včera nekoupil víc jak 4 kartičky.
+   (a) OCN Karel a Marek spolu soutěží, kdo z nich bude mít víc kartiček se slavnými hokejisty. Marek si včera koupil ne víc jak 4                  kartičky.
+           `Karel and Marek compete together to see who will have more cards with famous hockey players. Marek bought no more than 4                cards yesterday.'
+   (b) OVN Karel a Marek spolu soutěží, kdo z nich bude mít víc kartiček se slavnými hokejisty. Marek si včera nekoupil víc jak 4                  kartičky.
+            `Karel and Marek compete together to see who will have more cards with famous hockey players. Marek did not buy more than 4                cards yesterday.'
 
 (4) E Context: Měli raději zůstat doma, protože všech 10 studentů celý seminář pokášlávalo a smrkalo.
+               `They should rather stay at home because all 10 students had a cough a blew his nose the whole lecture.'
     N Context: Měli raději zůstat doma, protože všech 8 studentů celý seminář pokašlávalo a smrkalo.
-    
+               `They should rather stay at home because all 8 students had a cough a blew his nose the whole lecture.'
+               
     (a) PCN Začalo se ochlazovat a spousta lidí je nemocných. Na semináři včera bylo ne víc než 10 studentů.
     (b) PVN Začalo se ochlazovat a spousta lidí je nemocných. Na semináři včera nebylo víc než 10 studentů.
 

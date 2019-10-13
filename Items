@@ -199,11 +199,15 @@ The comment:  Items were tested against two contexts: either against the equalit
      (b) PVN Ve městě nebylo v sobotu víc jak 30 turistů.
              `There were not more than 30 tourists on Saturday.'
              
-  E Context: To by nebyli Francouzi, aby všechny 4 jeskyně hned neoznačili za národní dědictví.
-  N Context: To by nebyli Francouzi, aby všechny 3 jeskyně hned neoznačili za národní dědictví.
-  
+  E Context: Francouzi všechny 4 jeskyně označili za národní dědictví.
+             `The French cited all four caves as a national heritage.'
+  N Context: Francouzi všechny 3 jeskyně označili za národní dědictví.
+             `The French cited all four caves as a national heritage.'
+             
   (c) OCN Ve Francii objevili ne víc jak 4 nové jeskyně.
+          `They discovered no more than 4 new caves in France.'
   (d) OVN Ve Francii neobjevili víc jak 4 nové jeskyně.
+          `They did not discover more than 4 new caves in France.'
 
 
 (11) E Context: Karel na všech 9 otázek odpověděl bez chyby a dostal tedy jedničku.

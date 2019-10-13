@@ -60,7 +60,8 @@ The comment:  Items were tested against two contexts: either against the equalit
    (a) OCN Karel a Marek spolu soutěží, kdo z nich bude mít víc kartiček se slavnými hokejisty. Marek si včera koupil ne víc jak 4                  kartičky.
            `Karel and Marek compete together to see who will have more cards with famous hockey players. Marek bought no more than 4                cards yesterday.'
    (b) OVN Karel a Marek spolu soutěží, kdo z nich bude mít víc kartiček se slavnými hokejisty. Marek si včera nekoupil víc jak 4                  kartičky.
-            `Karel and Marek compete together to see who will have more cards with famous hockey players. Marek did not buy more than 4                cards yesterday.'
+           `Karel and Marek compete together to see who will have more cards with famous hockey players. Marek did not buy more than 4              cards yesterday.'
+
 
 (4) E Context: Měli raději zůstat doma, protože všech 10 studentů celý seminář pokášlávalo a smrkalo.
                `They should rather stay at home because all 10 students had a cough a blew his nose the whole lecture.'
@@ -68,37 +69,62 @@ The comment:  Items were tested against two contexts: either against the equalit
                `They should rather stay at home because all 8 students had a cough a blew his nose the whole lecture.'
                
     (a) PCN Začalo se ochlazovat a spousta lidí je nemocných. Na semináři včera bylo ne víc než 10 studentů.
+            `It started to cool and a lot of people were sick. There were no more than 10 students at the seminar yesterday.'
     (b) PVN Začalo se ochlazovat a spousta lidí je nemocných. Na semináři včera nebylo víc než 10 studentů.
-
+            `It started to cool and a lot of people were sick. There were not more than 10 students at the seminar yesterday.'
+            
    E Context: Jana dostala ze všech 6 úkolů plný počet bodů, takže ze závěrečné zkoušky už nemá takový strach.
+              `Jana got a full score of all 6 tasks, so she is not so afraid of the final exam.'
    N Context: Jana dostala ze všech 5 úkolů plný počet bodů, takže ze závěrečné zkoušky už nemá takový strach.
-   
+              `Jana got a full score of all 5 tasks, so she is not so afraid of the final exam.'
+              
    (c) OCN Vyučují po studentech vyžadoval ne víc jak 6 úkolů za semestr.
+           `A Teacher required no more than 6 assignments by students per semester.'
    (d) OVN Vyučující po studentech nevyždadoval víc jak 6 úkolů za semestr.
+           `A Teacher did not require more than 6 assignments by students per semester.'
 
-(5) E Context: Dnes měli myslivci hon a všech 5 zastřelili, takže v lese už nezbyl ani jeden zajíc.
+
+(5) E Context: Dnes měli myslivci hon a všech 5 zajíců zastřelili, takže v lese už nezbyl ani jeden zajíc.
+               `Hunters had a hunt today and they shot all 5 hares, so there is no hare left in the forest.'
     N Context: Dnes měli myslivci hon a všechny 4 zastřelili, takže v lese už nezbyl ani jeden zajíc.
+               `Hunters had a hunt today and they shot all 4 hares, so there is no hare left in the forest.'
     
    (a) PCN V tomhle lese bylo ne víc než 5 zajíců.
+           `There were no more than 5 hares in this forest.'
    (b) PVN V tomhle lese nebylo víc než 5 zajíců.
+           `There were not more than 5 hares in this forest.'
 
    E Context: Uprostřed lesa je řeka a po levé straně 200 nových malých buků. Stromečky jsou stejného druhu. Vypadá to moc pěkně. 
+              `There is a river in the middle of the forest and there are 200 new small beech trees on the left side of the river. The                 trees are of the same species. It looks very nice.'
    N Context: Uprostřed lesa je řeka a po levé straně 150 nových malých buků. Stromečky jsou stejného druhu. Vypadá to moc pěkně.
-   
+              `There is a river in the middle of the forest and there are 150 new small beech trees on the left side of the river. The                 trees are of the same species. It looks very nice.'
+               
    (c) OCN Podél řeky roste ne víc než 200 malých buků.
+           `No more than 200 small beech trees grow along the river.'
    (d) OVN Podél řeky neroste víc než 200 malých buků.
-              
-  (6) E Context: Potřebovali bychom, aby nás bylo víc, abychom se mohli střídat. Bohužel je nás jen 7, takže si při závodech skoro neodpočneme.
-      N Context: Potřebovali bychom, aby nás bylo víc, abychom se mohli střídat. Bohužel je nás jen 5, takže si při závodech skoro neodpočneme.
-  
+           `Not more than 200 small beech trees grow along the river.'
+            
+            
+  (6) E Context: Potřebovali bychom, aby nás bylo víc, abychom se mohli střídat. Bohužel je nás jen 7, takže si při závodech skoro                        neodpočneme.
+                 `We would need more of us to take turns. Unfortunately, there are only 7 of us, so we can hardly rest during the                         races.'
+      N Context: Potřebovali bychom, aby nás bylo víc, abychom se mohli střídat. Bohužel je nás jen 5, takže si při závodech skoro                        neodpočneme.
+                 `We would need more of us to take turns. Unfortunately, there are only 5 of us, so we can hardly rest during the                         races.'
+                 
   (a) PCN Ve sportovním týmu nás je ne víc než 7 sprinterů.
+          `There are no more than 7 sprinters in our sports team.'
   (b) PVN Ve sportovním týmu nás není víc než 7 sprinterů.
-  
+          `There are not more than 7 sprinters in our sports team.'
+          
       E Context: Bratr měl tak velký hlad, že všech 5 rohlíků snědl už po cestě domů jen tak suché.
+                 `My brother was so hungry that he ate all 5 croissant on the way home.'
       N Context: Bratr měl tak velký hlad, že všechny 3 rohlíky snědl už po cestě domů jen tak suché.
-     
+                 `My brother was so hungry that he ate all 3 croissant on the way home.'
+                 
      (c) OCN Bratr si včera koupil v obchodě ne víc jak 5 rohlíků.
+             `My brother bought no more than 5 croissant in the shop yesterday.'
      (d) OVN Bratr si včera nekoupil v obchodě víc jak 5 rohlíků.
+             `My brother did not buy more than 5 croissant in the shop yesterday.'
+ 
  
  (7) E Context: Obec se rozhodla, že kvůli větší bezpečnosti vybuduje přechod pro chodce a semafor, protože ve všech 10 domech bydlí rodiny s malými dětmi.
      N Context:  Obec se rozhodla, že tu kvůli větší bezepčnosti vybuduje přechod pro chodce a semafor, protože ve všech 8 domech bydlí rodiny s malými dětmi.

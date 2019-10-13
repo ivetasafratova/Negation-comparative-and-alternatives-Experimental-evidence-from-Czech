@@ -137,16 +137,25 @@ The comment:  Items were tested against two contexts: either against the equalit
              `There are not more than 10 houses in this street.'
      
   E Context: Tomáš na zkoušku šel a doufal, že se ho vyučující zeptá na nějakou knihu z těch 10, které četl.
+             `Tomas went to an exam and hoped the teacher would examine his from a book out of the 10 he had read.'
   N Context: Tomáš na zkoušku šel a doufal, že se ho vyučující zeptá na nějakou knihu z těch 8, které četl.
+             `Tomas went to an exam and hoped the teacher would examine his from a book out of the 8 he had read.'
   
   (c) OCN Tomáš se přihlásil na literární seminář. Z nedostatku času však ke zkoušce přečetl ne víc jak 10 knih.
+          `Tomáš enrolled in a literary seminar. However, due to lack of time, he read no more than 10 books.'
   (d) OVN Tomáš se přihlásil na literární seminář. Z nedostatku času však ke zkoušce nepřečetl víc jak 10 knih.
+          `Tomáš enrolled in a literary seminar. However, due to lack of time, he did not read more than 10 books.'
+
 
 (8) E Context: Hvězdy tvořily nepravidelný šestiúhelník.
+               `The stars formed an irregular hexagon.'
     N Context: Hvězdy tvořily nepravidelný pětiúhelník.
-    
+               `The stars formed an irregular pentagon.'
+               
     (a) PCN Na obloze bylo ne víc jak 6 hvězd.
+            `There were no more than 6 stars in the sky.'
     (b) PVN Na obloze nebylo víc jak 6 hvězd.
+            `There were not more than 6 stars in the sky.'
    
   E Context: Všech 6 růží bylo červených.
                `All 6 roses were red.' 
@@ -160,23 +169,36 @@ The comment:  Items were tested against two contexts: either against the equalit
            
  
 (9) E Context: Jedná se patrně o nějaké experimentální umění, protože všech 5 čar tvoří podivný obrazec.
+               `This is probably an experimental art because all 5 lines form a strange pattern.'
     N Context: Jedná se patrně o nějaké experimentální umění, protože všechny 4 čáry tvoří podivný obrazec.
+               `This is probably an experimental art because all 4 lines form a strange pattern.'
 
    (a) PCN Na tomto obraze je ne víc než 5 černých čar.
+           `There are no more than 5 black lines in this picture.'
    (b) PVN Na tomto obraze není víc než 5 černých čar.
+           `There are not more than 5 black lines in this picture.'
 
    E Context: Obraz byl smutný a pochmurný, protože všechny 4 použité barvy byly velmi tmavé.
+              `The picture was sad and gloomy, as all 4 colors used were very dark.'
    N Context: Obraz byl smutný a pochmurný, protože všechny 3 použité barvy byly velmi tmavé.
+              `The picture was sad and gloomy, as all 3 colors used were very dark.'
    
    (c) OCN Malířka na malování obrazu použila ne víc jak 4 barvy.
+           `The painter used no more than 4 colors to paint the picture.'
    (d) OVN Malířka na malování obrazu nepoužila víc jak 4 barvy.
+           `The painter did not use more than 4 colors to paint the picture.'
  
-(10) E Context: Turisté přijeli hromadně autobusem. Nejprve navštívili místní zámek, poté si zašli na oběd a nakonec se vypravili i do podzemí. Někteří měli zpočátku trochu obavy z uzavřených prostor, ale nakonec se prohlídky zúčastnilo všech 30 turistů.
-     N Context: Turisté přijeli hromadně autobusem. Nejprve navštívili místní zámek, poté si zašli na oběd a nakonec se vypravili i do podzemí. Někteří měli zpočátku trochu obavy z uzavřených prostor, ale nakonec se prohlídky zúčastnilo všech 27 turistů.
+ 
+(10) E Context: Turisté přijeli hromadně autobusem. Nejprve navštívili místní zámek, poté si zašli na oběd a nakonec se vypravili i do                   podzemí. Někteří měli zpočátku trochu obavy z uzavřených prostor, ale nakonec se prohlídky zúčastnilo všech 30 turistů.
+                `Tourists arrived by bus together. They first visited the local chateau, then went for lunch and finally went                           underground. Some of them were initially afraid of confined spaces, but eventually all 30 tourists took part in the                     tour.'
+     N Context: Turisté přijeli hromadně autobusem. Nejprve navštívili místní zámek, poté si zašli na oběd a nakonec se vypravili i do                   podzemí. Někteří měli zpočátku trochu obavy z uzavřených prostor, ale nakonec se prohlídky zúčastnilo všech 27 turistů.
+                `Tourists arrived by bus together. They first visited the local chateau, then went for lunch and finally went                           underground. Some of them were initially afraid of confined spaces, but eventually all 27 tourists took part in the                     tour.'
 
-  (a) PCN Ve městě bylo v sobotu ne víc jak 30 turistů.
-  (b) Ve městě nebylo v sobotu víc jak 30 turistů.
-  
+     (a) PCN Ve městě bylo v sobotu ne víc jak 30 turistů.
+             `There were no more than 30 tourists on Saturday.'
+     (b) PVN Ve městě nebylo v sobotu víc jak 30 turistů.
+             `There were not more than 30 tourists on Saturday.'
+             
   E Context: To by nebyli Francouzi, aby všechny 4 jeskyně hned neoznačili za národní dědictví.
   N Context: To by nebyli Francouzi, aby všechny 3 jeskyně hned neoznačili za národní dědictví.
   

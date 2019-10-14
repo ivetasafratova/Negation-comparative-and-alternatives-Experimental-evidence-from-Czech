@@ -8,7 +8,7 @@
 
 (2) GOOD 
     Context: Test byl opravdu náročný, ne všem studentům se podařilo dosáhnout požadovaného počtu bodů. I Petr, který je považován za                velkého šprta, testem neprošel, protože nezískal požadovaných 20 bodů.
-             `The test was really challenging, not all students managed to achieve the required number of points. Even Peter, who is                  considered very clever, did not pass the test because he did not get the required 20 points.'
+             `The test was really challenging. Not all students managed to achieve the required number of points. Even Peter, who is                  considered very clever, did not pass the test because he did not get the required 20 points.'
     Sentence: Aby studenti prošli tímto testem, potřebují nejméně 20 bodů.
               `Students need at least 20 points to pass this test.'
               
@@ -21,8 +21,8 @@
               
   
  (4) GOOD
-     Context: Zákazník si koupil nejnovější CD od Metallicy a starší CD od Black Sabatth, zdarma dostal CD Hlasy zvířat.
-              `The customer bought the latest CD from Metallica and the older CD from Black Sabatth, and received the Animal Voices CD                 for free.'
+     Context: Zákazník si koupil nejnovější CD od Metallicy a starší CD od Black Sabbath, zdarma dostal CD Hlasy zvířat.
+              `The customer bought the latest CD from Metallica and the older CD from Black Sabbath, and received the Animal Voices CD                 for free.'
      Sentence: Pokud si v tomto obchodě někdo koupí 2 CD, dostane ještě jedno zdarma.
                `If someone buys 2 CDs in this store, one more CD is free.'
                
@@ -63,7 +63,7 @@
 
 
 (10) GOOD
-     Context: Dívka se chvíli rozmýšlela a nakonec si koupila 2 jahodové a 2 malinové jogurty.
+     Context: Dívka se chvíli rozmýšlela, a nakonec si koupila 2 jahodové a 2 malinové jogurty.
               `The girl was thinking for a moment and finally she bought 2 strawberry and 2 raspberry yoghurts.'
      Sentence: Dívka šla do obchodu a koupila si 4 jogurty.
                `The girl went to the shop and bought 4 yoghurts.'
@@ -78,24 +78,37 @@
      
 (12) GOOD
      Context: Rodiče šli s dětmi do lesa na houby, ale nenašli ani jednu jedlou houbu.
+              `Parents went with the children to the forest to pick mushrooms, but they found no edible mushroom.'
      Sentence: Holčička ovšem našla tři hřiby satany a měla velkou radost. 
+               `A little girl, however, found three inedible mushrooms, and she was delighted.'
+
 
 (13) BAD 
-     Context:  Byl jsem na výstavě obrazů. Mého kamaráda velmi zaujal obraz s kruhem.
-     Sentence:  Mně se ale moc nelíbil, protože nemám rád hranaté věci.
+     Context: Byl jsem na výstavě obrazů. Mého kamaráda velmi zaujal obraz s kruhem.
+              `I was at an exhibition of paintings. My friend was very interested in the picture with the circle.'
+     Sentence: Mně se ale moc nelíbil, protože nemám rád hranaté věci.
+               `But I didn't like it because I don't like square things.'
      
  
  (14) GOOD
       Context: Rodiče odjeli na dovolenou na Krétu a měli štěstí, že měli opravdu pěkné počasí.
+               `My parents have gone on holiday to Crete, and they are lucky because they have really nice weather.'
       Sentence: Rodiče nejsou doma, protože jsou na dovolené.
+                `My parents are not at home because they are on vacation.'
+                
  
  (15) BAD
-      Context: Anna a Marie přišly pozdě, zatímco Lucie a Hana byly na místě už od rána a připravovaly občerstevní.
+      Context: Anna a Marie přišly pozdě, zatímco Lucie a Hana byly na místě už od rána a připravovaly občerstvení.
+               `Anna and Marie came late, while Lucie and Hana had been in place early in the morning, and they were preparing snacks.'
       Sentence: Všechny dívek přišly na oslavu pozdě.
+                `All the girls came to the party late.'
+                
  
  (16) GODD
-      Context: Vedle školky se začalo budovat nové nákupní centrum. Stavební práce neprodleně začaly a děti proto nemohly kvůli hluku ze stavby usnout.
+      Context: Vedle školky se začalo budovat nové nákupní centrum. Stavební práce neprodleně začaly a děti proto nemohly kvůli hluku ze                stavby usnout.
+               `Next to the kindergarten, a new shopping center began to be built. The construction work started immediately, and the                    children could not fall asleep due to building noise.'
       Sentence: Většina dětí ve školce po obědě nespala.
+                `Most children did not sleep after lunch in kindergarten.'
 
 
 

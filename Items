@@ -261,46 +261,76 @@ The comment:  Items were tested against two contexts: either against the equalit
     (b) PVN V neděli nebylo na svahu víc než 40 lyžařů.
             `There were not more than 40 skiers on the slope on Sunday.'
     
-    E Context: Není to pravda, že Honza tolik šetřil, pouze mu přijdou materiální věci nepodstatné. Těch 7 triček mu prý stačí, na každý den v týdnu má jedno.
-    N Context: Není to pravda, že Honza tolik šetřil,  pouze mu přijdou materiální věci nepodstatné. Těch 5 triček mu prý stačí, skoro na každý den v týdnu má jedno.
+    E Context: Není to pravda, že Honza tolik šetřil, pouze mu přijdou materiální věci nepodstatné. Těch 7 triček mu prý stačí, na každý                den v týdnu má jedno.
+               `It is not true that Honza spares so much, he consider material things to be irrelevant only. The 7 T-shirts are enough                  for him, he has one for each day of the week.'
+    N Context: Není to pravda, že Honza tolik šetřil,  pouze mu přijdou materiální věci nepodstatné. Těch 5 triček mu prý stačí, skoro                  na každý den v týdnu má jedno.
+               `It is not true that Honza spares so much, he consider material things to be irrelevant only. The 7 T-shirts are enough                  for him, he has one for almost each day of the week.'
     
     (c) OCN Honza nosí ne víc jak 7 triček.
+            `Honza wears no more than 7 T-shirts.'
     (d) OVN Honza nenosí víc jak 7 triček.
-      
+            `Honza does not wear more than 7 T-shirts.'
              
- (14) E Context: Všem 25 návštěvníkům se však film líbil. Pravděpodobně to bylo způsobeno tím, že dávali studentský experimentální film. Šli na něho záměrně, protože už s tímto žánrem měli dobré zkušenosti z minulosti.
-     N Context: Všem 23 návštěvníkům se však film líbil. Pravděpodobně to bylo způsobeno tím, že dávali studentský experimentální film. Šli na něho záměrně, protože už s tímto žánrem měli dobré zkušenosti z minulosti.
-     
+             
+ (14) E Context: Všem 25 návštěvníkům se film líbil. Pravděpodobně to bylo způsobeno tím, že dávali studentský experimentální film.                  Šli na něho záměrně, protože už s tímto žánrem měli dobré zkušenosti z minulosti.
+             `All 25 visitors liked the movie. Probably it was due to the fact that it was a student experimental film. They went on it              deliberately because they had a good experience with this genre in the past.'
+     N Context: Všem 23 návštěvníkům se film líbil. Pravděpodobně to bylo způsobeno tím, že dávali studentský experimentální film. Šli                   na něho záměrně, protože už s tímto žánrem měli dobré zkušenosti z minulosti.
+                `All 23 visitors liked the movie. Probably it was due to the fact that it was a student experimental film. They went on                 it deliberately because they had a good experience with this genre in the past.'
+                
      (a) PCN V kině včera bylo ne víc jak 25 lidí.
+             `There were no more than 25 people in the cinema yesterday.'
      (b) PVN V kině včera nebylo víc jak 25 lidí.
+             `There were not more than 25 people in the cinema yesterday.'
  
     E Context: Paní Nováková si objednala dorty na oslavu narozenin a požadovala, aby všechny 4 dorty byly s čokoládovým krémem.
+               `Mrs. Novak ordered cakes to celebrate her birthday and demanded that all 4 cakes be with chocolate cream.'
     N Context: Paní Nováková si objednala dorty na oslavu narozenin a požadovala, aby všechny 3 dorty byly s čokoládovým krémem.
+               `Mrs. Novak ordered cakes to celebrate her birthday and demanded that all 3 cakes be with chocolate cream.'
     
     (c) OCN Cukrářka upekla ne víc jak 4 dorty.
+            `The confectioner baked no more than 4 cakes.'
     (d) OVN Cukrářka neupekla víc jak 4 dorty.
+            `The confectioner did not bake more than 4 cakes.'
 
-(15) E Context: Shodou okolností přijely na prohlídku hradu naráz 4 autobusy plné studentů. Průvodci se za celý den ani na chvíli nezastavili, protože po celý den provázeli. Všichni 4 průvodci byli rádi, když si mohli večer po zavírací době hradu odpočinout.
-     N Context: Shodou okolností přijely na prohlídku hradu naráz 4 autobusy plné studentů. Průvodci se za celý den ani na chvíli nezastavili, protože po celý den provázeli. Všichni 3 průvodci byli rádi, když si mohli večer po zavírací době hradu odpočinout.
+
+(15) E Context: Shodou okolností přijely na prohlídku hradu naráz 4 autobusy plné studentů. Průvodci se za celý den ani na chvíli                       nezastavili, protože po celý den provázeli. Všichni 4 průvodci byli rádi, když si mohli večer po zavírací době hradu                     odpočinout.
+                `Coincidentally, 4 buses full of students arrived to visit the castle at once. The guides did not stop for a whole day,                 because they were accompanying the whole day. All 4 guides were happy to rest in the evening after the castle's closing                 time.'
+     N Context: Shodou okolností přijely na prohlídku hradu naráz 4 autobusy plné studentů. Průvodci se za celý den ani na chvíli                       nezastavili, protože po celý den provázeli. Všichni 3 průvodci byli rádi, když si mohli večer po zavírací době hradu                     odpočinout.
+                `Coincidentally, 4 buses full of students arrived to visit the castle at once. The guides did not stop for a whole day,                 because they were accompanying the whole day. All 3 guides were happy to rest in the evening after the castle's closing                 time.'
      
      (a) PCN Tento víkend byli na hradě ne víc než 4 průvodci.
+             `There were no more than 4 guides this weekend.'
      (b) PVN Tento víkend nebyli na hradě víc než 4 průvodci.
+             `There were not more than 4 guides this weekend.'
      
      E Context: Učitel rozdal všech 15 handoutů mezi studenty a žádný mu nezbyl.
+                `The teacher handed out all 15 handouts among the students and no handout left to him.'
      N Context: Učitel rozdal všech 13 handoutů mezi studenty a žádný mu nezbyl.
+                `The teacher handed out all 13 handouts among the students and no handout left to him.'
      
      (c) OCN Vyučující pro své studenty vytiskl ne víc jak 15 handoutů.
+             `The teacher printed no more than 15 handouts for his students.'
      (d) OVN Vyučující pro své studenty nevytiskl víc jak 15 handoutů.
+             `The teacher did not print more than 15 handouts for his students.'
           
- (16) E Context: Paní Nováková požadovala, aby bylo všech 5 stromů pokáceno, protože jí stíní na zahrádku před domem a její růže z toho důvodu nejsou tak pěkné, jako kdyby na ně svítilo slunce.
-     N Context: Paní Nováková požadovala, aby byly všechny 3 stromy pokáceny, protože jí stíní na zahrádku před domem a její růže z toho důvodu nejsou tak pěkné, jako kdyby na ně svítilo slunce.
+          
+ (16) E Context: Paní Nováková požadovala, aby bylo všech 5 stromů pokáceno, protože jí stíní na zahrádku před domem a její růže z toho                  důvodu nejsou tak pěkné, jako kdyby na ně svítilo slunce.
+                 `Mrs. Novakova demanded that all 5 trees be cut down, because they shades to her garden in front of the house and her                    roses are not as nice as if the sun was shining on them.'
+     N Context: Paní Nováková požadovala, aby byly všechny 3 stromy pokáceny, protože jí stíní na zahrádku před domem a její růže z toho                 důvodu nejsou tak pěkné, jako kdyby na ně svítilo slunce.
+                `Mrs. Novakova demanded that all 3 trees be cut down, because they shades to her garden in front of the house and her                    roses are not as nice as if the sun was shining on them.'
      
      (a) PCN Před domem bylo ne víc jak 5 stromů.
+             `There were no more than 5 trees in front of the house.'
      (b) PVN Před domem nebylo víc jak 5 stromů.
+             `There were not more than 5 trees in front of the house.'
      
      E Context: Paní Nováková má velmi ráda jablka. Pan Novák jí chtěl udělat radost, a proto všechny 4 stromy byly jabloně.
+                `Mrs. Nováková loves apples very much. Mr. Novák wanted to make her happy, so all 4 trees were apple trees.'
      N Context: Paní Nováková má velmi ráda jablka. Pan Novák jí chtěl udělat radost, a proto všechny 3 stromy byly jabloně.
+                `Mrs. Nováková loves apples very much. Mr. Novák wanted to make her happy, so all 3 trees were apple trees.'
      
      (c) OCN Pan Novák na zahradě vysázel ne víc jak 4 stromy.
+             `Mr. Novák planted no more than 4 trees in the garden.'
      (d) OVN Pan Novák na zahradě nevysázel víc jak 4 stromy.
+             `Mr. Novák did not plant more than 4 trees in the garden.'
 

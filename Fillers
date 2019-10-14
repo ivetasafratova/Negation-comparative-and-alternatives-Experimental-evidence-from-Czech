@@ -1,47 +1,80 @@
 
 (1) BAD
     Context: Byla to velmi obtížná zkouška. Vyučující byl nekompromisní. 10 studentů zkoušku neudělalo.
+             `It was a very difficult exam. The teacher was uncompromising. 10 students did not pass the exam.'
     Sentence: Všichni studenti dostali ze zkoušky lepší známku než 2.
+              `All examined students got a better grade than C.'
+              
 
 (2) GOOD 
-    Context: Test byl opravdu náročný, ne všem studentům se podařilo dosáhnout požadovaného počtu bodů. I Petr, který je považován za velkého šprta, testem neprošel, protože nezískal požadovaných 20 bodů.
+    Context: Test byl opravdu náročný, ne všem studentům se podařilo dosáhnout požadovaného počtu bodů. I Petr, který je považován za                velkého šprta, testem neprošel, protože nezískal požadovaných 20 bodů.
+             `The test was really challenging, not all students managed to achieve the required number of points. Even Peter, who is                  considered very clever, did not pass the test because he did not get the required 20 points.'
     Sentence: Aby studenti prošli tímto testem, potřebují nejméně 20 bodů.
+              `Students need at least 20 points to pass this test.'
+              
  
  (3) BAD 
     Context: Marie musí podávat Honzovi knihy z vyšších polic, protože on na ně nedosáhne.
+             `Marie has to hand over the books to John from the higher shelves, because he can't reach them.'
     Sentence: Honza je vyšší než Marie.
+              `Honza is taller than Marie.'
+              
   
  (4) GOOD
      Context: Zákazník si koupil nejnovější CD od Metallicy a starší CD od Black Sabatth, zdarma dostal CD Hlasy zvířat.
+              `The customer bought the latest CD from Metallica and the older CD from Black Sabatth, and received the Animal Voices CD                 for free.'
      Sentence: Pokud si v tomto obchodě někdo koupí 2 CD, dostane ještě jedno zdarma.
+               `If someone buys 2 CDs in this store, one more CD is free.'
+               
  
  (5) BAD
-     Context: Když se Tomáš vrátil z dovolené, vedoucí ho pochválil za to, že odpovídal na pracovní e-maily, přestože měl dovolenou, a slíbil mu za to zvláštní prémie.
+     Context: Když se Tomáš vrátil z dovolené, vedoucí ho pochválil za to, že odpovídal na pracovní e-maily, přestože měl dovolenou, a                 slíbil mu za to zvláštní prémie.
+              `When Thomas returned from vacation, the manager praised him for responding to work emails even though he was on vacation                and promised him special bonuses.'
      Sentence: Tomáš z dovolené neposlal ani jeden e-mail.
+               `Tomas did not send even single email during his vacation.'
+
 
 (6) GOOD
     Context: Holubi přezimují, člověk se jich nezbaví ani v lednu.
+             `Pigeons hibernate, you can not get rid of them even in January.'
     Sentence: Někteří ptáci na zimu neodlétají, ale zůstávají u nás.
+              `Some birds do not leave for winter, but stay in our country.'
+
 
 (7) BAD
     Context: Schůze byla velmi zdlouhavá. Obzvlášť Petr měl velmi dlouhý proslov.
+             `The meeting was very lengthy. Especially Peter had a very long speech.'
     Sentence: Na schůzi přišli všichni kromě Petra.
+              `Everyone but Peter came to the meeting.'
+
 
 (8) GOOD
     Context: Ředitel vyhlásil na pondělí mimořádné ředitelské volno. Studenti byli nadšení.
+             `The director announced extraordinary managerial leave for Monday. The students were excited.'
     Sentence: V pondělí nebyl ve škole ani jeden student.
+              `There was no student at school on Monday.'
+              
 
 (9) BAD
     Context: Čtyřletý syn měří 105 cm, proto na tu horskou dráhu jít může.
+             `A four-year-old son is 105 cm tall, so he can go to the roller coaster.'
     Sentence: Na tuto horskou dráhu mohou pouze ty děti, které měří víc než 120 cm.
+              `Only children who are over 120 cm in length can go to this roller coaster.'
+
 
 (10) GOOD
      Context: Dívka se chvíli rozmýšlela a nakonec si koupila 2 jahodové a 2 malinové jogurty.
+              `The girl was thinking for a moment and finally she bought 2 strawberry and 2 raspberry yoghurts.'
      Sentence: Dívka šla do obchodu a koupila si 4 jogurty.
+               `The girl went to the shop and bought 4 yoghurts.'
+               
 
 (11) BAD
-     Context: Karel neví, že číslo 3 není prvočíslo.
+     Context: Karel neví, že číslo 3 je prvočíslo.
+              `Karel doesn't know that number 3 is a prime number.'
      Sentence: Karel je nejlepší student matematicko-fyzikální fakulty.
+               `Karel is the best student of the Faculty of Mathematics and Physics.'
+               
      
 (12) GOOD
      Context: Rodiče šli s dětmi do lesa na houby, ale nenašli ani jednu jedlou houbu.

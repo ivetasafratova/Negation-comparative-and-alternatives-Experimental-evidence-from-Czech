@@ -211,10 +211,14 @@ The comment:  Items were tested against two contexts: either against the equalit
 
 
 (11) E Context: Karel na všech 9 otázek odpověděl bez chyby a dostal tedy jedničku.
+                `Karel answered all 9 questions without a mistake and got a grade A.'
      N Context: Karel na všech 8 otázek odpověděl bez chyby a dostal tedy jedničku.
+                `Karel answered all 8 questions without a mistake and got a grade A.'
 
     (a) PCN V závěrečném testu bylo ne víc jak 9 otázek.
+            `There were no more than 9 questions in the final exam.'
     (b) PVN V závěrečném testu nebylo víc jak 9 otázek.
+            `There were not more than 9 questions in the final exam.'
 
     E Context: Petr byl velmi překvapen, protože ani jednoho z bývalých spolužáků od střední školy neviděl, ale všech 5 se k němu chovalo velmi přátelsky.
     N Context: Petr byl velmi překvapen, protože ani jednoho z bývalých spolužáků od střední školy neviděl, ale všichni 3 se k němu chovalo velmi přátelsky.

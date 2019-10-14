@@ -220,30 +220,46 @@ The comment:  Items were tested against two contexts: either against the equalit
     (b) PVN V závěrečném testu nebylo víc jak 9 otázek.
             `There were not more than 9 questions in the final exam.'
 
-    E Context: Petr byl velmi překvapen, protože ani jednoho z bývalých spolužáků od střední školy neviděl, ale všech 5 se k němu chovalo velmi přátelsky.
-    N Context: Petr byl velmi překvapen, protože ani jednoho z bývalých spolužáků od střední školy neviděl, ale všichni 3 se k němu chovalo velmi přátelsky.
+    E Context: Petr byl velmi překvapen, protože ani jednoho z bývalých spolužáků od střední školy neviděl, ale všech 5 se k němu                      chovalo velmi přátelsky.
+               `Peter was very surprised because he hadn't seen any of his former high school classmates, but all 5 of them were very                  friendly to him.'
+    N Context: Petr byl velmi překvapen, protože ani jednoho z bývalých spolužáků od střední školy neviděl, ale všichni 3 se k němu                    chovalo velmi přátelsky.
+               `Peter was very surprised because he hadn't seen any of his former high school classmates, but all 3 of them were very                  friendly to him.'
     
     (c) OCN Petr včera potkal na večírku ne víc jak 5 známých.
+            `Petr met no more than 5 former classmates at a party yesterday.'
     (d) OVN Petr včera nepotkal na večírku víc jak 5 známých.
+            `Petr did not meet more than 5 former classmates at a party yesterday.'
 
 (12) E Context: Naštěstí ani jeden z 15 pacientů nebyl v ohrožení života.
+                `Fortunately, none of the 15 patients were at risk of life.'
      N Context: Naštěstí ani jeden ze 14 pacientů nebyl v ohrožení života.
+                `Fortunately, none of the 14 patients were at risk of life.'
      
      (a) PCN Tento týden bylo v okresní nemocnici ne víc jak 15 akutních případů.
+             `There were no more than 15 acute cases in the district hospital this week.'
      (b) PVN Tento týden nebylo v okresní nemocnici víc jak 15 akutních případů.
+             `There were not more than 15 acute cases in the district hospital this week.'
 
      E Context: Můj spolužák je na sebe přísný. Stanovil si, že každý den musí napsat přesně 5000 znaků a teprve poté může jít spát.
-     N Context: Můj spolužák je na sebe přísný. Stanovil si, že každý den musí napsat mezi 3000 až 4000 znaky a teprve poté může jít spát.
+               `My classmate is strict on himself. He told himself that he had to write exactly 5,000 characters each day before he                     could go to sleep.'
+     N Context: Můj spolužák je na sebe přísný. Stanovil si, že každý den musí napsat mezi 3000 až 4000 znaky a teprve poté může jít                     spát.
+                `My classmate is strict on himself. He told himself that he had to write between 3,000 and 4,000 characters each day                     before he could go to sleep.'
      
      (c) OCN Můj spolužák po zkušenostech s bakalářskou prací ví, že za den napíše ne víc jak 5000 znaků.
+             `My classmate knows after writing his bachelor thesis that he is able to write no more than 5000 characters per day.'
      (d) OVN Můj spolužák po zkušenostech s bakalářskou prací ví, že za den nenapíše víc jak 5000 znaků.
+             `My classmate knows after writing his bachelor thesis that he is not able to write more than 5000 characters per day.'
 
 
-(13) E Context: Podmínky na lyžování opravdu nebyly dobré. Sníh byl mokrý a těžký. Ani jeden ze 40 lyžařů si netroufal na černou sjezdovku a raději jezdili po červené nebo po modré sjezdovce.
-    N Context: Podmínky na lyžování opravdu nebyly dobré. Sníh byl mokrý a těžký. Ani jeden z 35 lyžařů si netroufal na černou sjezdovku a raději jezdili po červené nebo po modré sjezdovce.
+(13) E Context: Podmínky na lyžování opravdu nebyly dobré. Sníh byl mokrý a těžký. Ani jeden ze 40 lyžařů si netroufal na černou                         sjezdovku a raději jezdili po červené nebo po modré sjezdovce.
+                `The conditions for skiing really were not good. The snow was wet and heavy. Neither of the 40 skiers dared to black                     slope and preferred to ride the red or blue slopes.'
+    N Context: Podmínky na lyžování opravdu nebyly dobré. Sníh byl mokrý a těžký. Ani jeden z 35 lyžařů si netroufal na černou sjezdovku                a raději jezdili po červené nebo po modré sjezdovce.
+               `The conditions for skiing really were not good. The snow was wet and heavy. Neither of the 35 skiers dared to black                    slope and preferred to ride the red or blue slopes.'
     
     (a) PCN V neděli bylo na svahu ne víc než 40 lyžařů.
+            `There were no more than 40 skiers on the slope on Sunday.'
     (b) PVN V neděli nebylo na svahu víc než 40 lyžařů.
+            `There were not more than 40 skiers on the slope on Sunday.'
     
     E Context: Není to pravda, že Honza tolik šetřil, pouze mu přijdou materiální věci nepodstatné. Těch 7 triček mu prý stačí, na každý den v týdnu má jedno.
     N Context: Není to pravda, že Honza tolik šetřil,  pouze mu přijdou materiální věci nepodstatné. Těch 5 triček mu prý stačí, skoro na každý den v týdnu má jedno.

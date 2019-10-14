@@ -13,7 +13,7 @@ The comment:  Items were tested against two contexts: either against the equalit
     E Context: Honza není zvyklý pít alkohol, takže se z těch 4 piv pořádně opil.
                `Honza is not used to drinking alcohol, so he got really drunk from those 4 beers.'
     N Context: Přestože Honza není zvyklý pít alkohol, ani z těch 3 piv se vůbec neopil.
-               `Although Honza is not used to drinking alcohol, he did not get drunk at all from those three beers.'
+               `Although Honza is not used to drinking alcohol, he did not get drunk at all from those 3 beers.'
                
    (a) OCN Honza včera vypil ne víc jak 4 piva.
            `Honza drank no more than 4 beers yesterday.'
@@ -27,9 +27,9 @@ The comment:  Items were tested against two contexts: either against the equalit
                `The thermometer, which measures absolutely accurately, showed 17°C, but there was a lot of blowing. Peter preferred to                take his jacket.'
     
     (a) PCN Včera bylo venku ne víc jak 20 °C.
-            `It was outside no more than 20°C yesterady.'
+            `It was outside no more than 20°C yesterday.'
     (b) PVN Včera nebylo venku víc jak 20 °C
-            `It was not outside more than 20°C yesterady.'
+            `It was not outside more than 20°C yesterday.'
 
      E Context: Dle jízdního řádu je odjezd z Brna ve 13:00 a příjezd do Prahy je v 15:00.
                 `According to the timetable, departure is from Brno at 13:00 and arrival to Prague at 15:00.'
@@ -43,9 +43,9 @@ The comment:  Items were tested against two contexts: either against the equalit
 
 
 (3) E Context: Petře trvá většinou celé dopoledne, než všech 5 oken umyje.
-               `It usually takes Petra all morning to wash all five windows' 
+               `It usually takes Petra all morning to wash all 5 windows.' 
     N Context: Petře trvá většinou celé dopoledne, než všechny 3 okna umyje.
-               `It usually takes Petra all morning to wash all three windows' 
+               `It usually takes Petra all morning to wash all 3 windows.' 
                
     (a) PCN V Petřině pokoji je ne víc než 5 oken.
             `There are no more than 5 windows in Petra's room.' 
@@ -53,9 +53,9 @@ The comment:  Items were tested against two contexts: either against the equalit
             `There are not more than 5 windows in Petra's room.' 
 
     E Context: Bohužel na všech 4 kartičkách byl ten samý hokejista.
-               `Unfortunately, the same hockey player was on all four cards.'
+               `Unfortunately, the same hockey player was on all 4 cards.'
     N Context: Bohužel na všech 3 kartičkách byl ten samý hokejista.
-               `Unfortunately, the same hockey player was on all three cards.'
+               `Unfortunately, the same hockey player was on all 3 cards.'
     
    (a) OCN Karel a Marek spolu soutěží, kdo z nich bude mít víc kartiček se slavnými hokejisty. Marek si včera koupil ne víc jak 4                  kartičky.
            `Karel and Marek compete together to see who will have more cards with famous hockey players. Marek bought no more than 4                cards yesterday.'
@@ -69,9 +69,9 @@ The comment:  Items were tested against two contexts: either against the equalit
                `They should rather stay at home because all 8 students had a cough a blew his nose the whole lecture.'
                
     (a) PCN Začalo se ochlazovat a spousta lidí je nemocných. Na semináři včera bylo ne víc než 10 studentů.
-            `It started to cool and a lot of people were sick. There were no more than 10 students at the seminar yesterday.'
+            `It started to cool, and a lot of people were sick. There were no more than 10 students at the seminar yesterday.'
     (b) PVN Začalo se ochlazovat a spousta lidí je nemocných. Na semináři včera nebylo víc než 10 studentů.
-            `It started to cool and a lot of people were sick. There were not more than 10 students at the seminar yesterday.'
+            `It started to cool, and a lot of people were sick. There were not more than 10 students at the seminar yesterday.'
             
    E Context: Jana dostala ze všech 6 úkolů plný počet bodů, takže ze závěrečné zkoušky už nemá takový strach.
               `Jana got a full score of all 6 tasks, so she is not so afraid of the final exam.'
@@ -85,9 +85,9 @@ The comment:  Items were tested against two contexts: either against the equalit
 
 
 (5) E Context: Dnes měli myslivci hon a všech 5 zajíců zastřelili, takže v lese už nezbyl ani jeden zajíc.
-               `Hunters had a hunt today and they shot all 5 hares, so there is no hare left in the forest.'
+               `Hunters had a hunt today, and they shot all 5 hares, so there is no hare left in the forest.'
     N Context: Dnes měli myslivci hon a všechny 4 zastřelili, takže v lese už nezbyl ani jeden zajíc.
-               `Hunters had a hunt today and they shot all 4 hares, so there is no hare left in the forest.'
+               `Hunters had a hunt today, and they shot all 4 hares, so there is no hare left in the forest.'
     
    (a) PCN V tomhle lese bylo ne víc než 5 zajíců.
            `There were no more than 5 hares in this forest.'
@@ -95,9 +95,9 @@ The comment:  Items were tested against two contexts: either against the equalit
            `There were not more than 5 hares in this forest.'
 
    E Context: Uprostřed lesa je řeka a po levé straně 200 nových malých buků. Stromečky jsou stejného druhu. Vypadá to moc pěkně. 
-              `There is a river in the middle of the forest and there are 200 new small beech trees on the left side of the river. The                 trees are of the same species. It looks very nice.'
+              `There is a river in the middle of the forest, and there are 200 new small beech trees on the left side of the river. The                 trees are of the same species. It looks very nice.'
    N Context: Uprostřed lesa je řeka a po levé straně 150 nových malých buků. Stromečky jsou stejného druhu. Vypadá to moc pěkně.
-              `There is a river in the middle of the forest and there are 150 new small beech trees on the left side of the river. The                 trees are of the same species. It looks very nice.'
+              `There is a river in the middle of the forest, and there are 150 new small beech trees on the left side of the river. The                 trees are of the same species. It looks very nice.'
                
    (c) OCN Podél řeky roste ne víc než 200 malých buků.
            `No more than 200 small beech trees grow along the river.'
@@ -116,14 +116,14 @@ The comment:  Items were tested against two contexts: either against the equalit
           `There are not more than 7 sprinters in our sports team.'
           
       E Context: Bratr měl tak velký hlad, že všech 5 rohlíků snědl už po cestě domů jen tak suché.
-                 `My brother was so hungry that he ate all 5 croissant on the way home.'
+                 `My brother was so hungry that he ate all 5 croissants on the way home.'
       N Context: Bratr měl tak velký hlad, že všechny 3 rohlíky snědl už po cestě domů jen tak suché.
-                 `My brother was so hungry that he ate all 3 croissant on the way home.'
+                 `My brother was so hungry that he ate all 3 croissants on the way home.'
                  
      (c) OCN Bratr si včera koupil v obchodě ne víc jak 5 rohlíků.
-             `My brother bought no more than 5 croissant in the shop yesterday.'
+             `My brother bought no more than 5 croissants in the shop yesterday.'
      (d) OVN Bratr si včera nekoupil v obchodě víc jak 5 rohlíků.
-             `My brother did not buy more than 5 croissant in the shop yesterday.'
+             `My brother did not buy more than 5 croissants in the shop yesterday.'
  
  
  (7) E Context: Obec se rozhodla, že kvůli větší bezpečnosti vybuduje přechod pro chodce a semafor, protože ve všech 10 domech bydlí                     rodiny s malými dětmi.
@@ -200,9 +200,9 @@ The comment:  Items were tested against two contexts: either against the equalit
              `There were not more than 30 tourists on Saturday.'
              
   E Context: Francouzi všechny 4 jeskyně označili za národní dědictví.
-             `The French cited all four caves as a national heritage.'
+             `The French cited all 4 caves as a national heritage.'
   N Context: Francouzi všechny 3 jeskyně označili za národní dědictví.
-             `The French cited all four caves as a national heritage.'
+             `The French cited all 3 caves as a national heritage.'
              
   (c) OCN Ve Francii objevili ne víc jak 4 nové jeskyně.
           `They discovered no more than 4 new caves in France.'
@@ -221,9 +221,9 @@ The comment:  Items were tested against two contexts: either against the equalit
             `There were not more than 9 questions in the final exam.'
 
     E Context: Petr byl velmi překvapen, protože ani jednoho z bývalých spolužáků od střední školy neviděl, ale všech 5 se k němu                      chovalo velmi přátelsky.
-               `Peter was very surprised because he hadn't seen any of his former high school classmates, but all 5 of them were very                  friendly to him.'
+               `Peter was amazed because he hadn't seen any of his former high school classmates, but all 5 of them were very                          friendly to him.'
     N Context: Petr byl velmi překvapen, protože ani jednoho z bývalých spolužáků od střední školy neviděl, ale všichni 3 se k němu                    chovalo velmi přátelsky.
-               `Peter was very surprised because he hadn't seen any of his former high school classmates, but all 3 of them were very                  friendly to him.'
+               `Peter was amazed because he hadn't seen any of his former high school classmates, but all 3 of them were very                          friendly to him.'
     
     (c) OCN Petr včera potkal na večírku ne víc jak 5 známých.
             `Petr met no more than 5 former classmates at a party yesterday.'
@@ -246,9 +246,9 @@ The comment:  Items were tested against two contexts: either against the equalit
                 `My classmate is strict on himself. He told himself that he had to write between 3,000 and 4,000 characters each day                     before he could go to sleep.'
      
      (c) OCN Můj spolužák po zkušenostech s bakalářskou prací ví, že za den napíše ne víc jak 5000 znaků.
-             `My classmate knows after writing his bachelor thesis that he is able to write no more than 5000 characters per day.'
+             `My classmate knows after writing his bachelor thesis that he can write no more than 5000 characters per day.'
      (d) OVN Můj spolužák po zkušenostech s bakalářskou prací ví, že za den nenapíše víc jak 5000 znaků.
-             `My classmate knows after writing his bachelor thesis that he is not able to write more than 5000 characters per day.'
+             `My classmate knows after writing his bachelor thesis that he can to write more than 5000 characters per day.'
 
 
 (13) E Context: Podmínky na lyžování opravdu nebyly dobré. Sníh byl mokrý a těžký. Ani jeden ze 40 lyžařů si netroufal na černou                         sjezdovku a raději jezdili po červené nebo po modré sjezdovce.
@@ -262,9 +262,9 @@ The comment:  Items were tested against two contexts: either against the equalit
             `There were not more than 40 skiers on the slope on Sunday.'
     
     E Context: Není to pravda, že Honza tolik šetřil, pouze mu přijdou materiální věci nepodstatné. Těch 7 triček mu prý stačí, na každý                den v týdnu má jedno.
-               `It is not true that Honza spares so much, he consider material things to be irrelevant only. The 7 T-shirts are enough                  for him, he has one for each day of the week.'
-    N Context: Není to pravda, že Honza tolik šetřil,  pouze mu přijdou materiální věci nepodstatné. Těch 5 triček mu prý stačí, skoro                  na každý den v týdnu má jedno.
-               `It is not true that Honza spares so much, he consider material things to be irrelevant only. The 7 T-shirts are enough                  for him, he has one for almost each day of the week.'
+               `It is not true that Honza spares so much, he considers material things to be irrelevant only. The 7 T-shirts are enough                 for him, he has one for each day of the week.'
+    N Context: Není to pravda, že Honza tolik šetřil, pouze mu přijdou materiální věci nepodstatné. Těch 5 triček mu prý stačí, skoro                  na každý den v týdnu má jedno.
+               `It is not true that Honza spares so much, he considers material things to be irrelevant only. The 5 T-shirts are enough                 for him, he has one for almost each day of the week.'
     
     (c) OCN Honza nosí ne víc jak 7 triček.
             `Honza wears no more than 7 T-shirts.'
@@ -272,10 +272,10 @@ The comment:  Items were tested against two contexts: either against the equalit
             `Honza does not wear more than 7 T-shirts.'
              
              
- (14) E Context: Všem 25 návštěvníkům se film líbil. Pravděpodobně to bylo způsobeno tím, že dávali studentský experimentální film.                  Šli na něho záměrně, protože už s tímto žánrem měli dobré zkušenosti z minulosti.
-             `All 25 visitors liked the movie. Probably it was due to the fact that it was a student experimental film. They went on it              deliberately because they had a good experience with this genre in the past.'
-     N Context: Všem 23 návštěvníkům se film líbil. Pravděpodobně to bylo způsobeno tím, že dávali studentský experimentální film. Šli                   na něho záměrně, protože už s tímto žánrem měli dobré zkušenosti z minulosti.
-                `All 23 visitors liked the movie. Probably it was due to the fact that it was a student experimental film. They went on                 it deliberately because they had a good experience with this genre in the past.'
+ (14) E Context: Všem 25 návštěvníkům se film líbil. Pravděpodobně to bylo způsobeno tím, že dávali studentský experimentální film.                      Šli na něho záměrně, protože už s tímto žánrem měli dobré zkušenosti z minulosti.
+                `All 25 visitors liked the movie. Probably it was due to the fact that it was a student experimental film. They went on                  it deliberately because they had a good experience with this genre in the past.'
+      N Context: Všem 23 návštěvníkům se film líbil. Pravděpodobně to bylo způsobeno tím, že dávali studentský experimentální film. Šli                  na něho záměrně, protože už s tímto žánrem měli dobré zkušenosti z minulosti.
+                 `All 23 visitors liked the movie. Probably it was due to the fact that it was a student experimental film. They went on                  it deliberately because they had a good experience with this genre in the past.'
                 
      (a) PCN V kině včera bylo ne víc jak 25 lidí.
              `There were no more than 25 people in the cinema yesterday.'
